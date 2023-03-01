@@ -4,7 +4,7 @@
 
 💻 My speciality is HTML, CSS, JavaScript and React development alongside other relevant technologies for Front-End development. Besides, I'm specializing in AI Website Automation.
 
-📚 I am always looking for opportunities to learn and improve my habilities. I try to keep myself up-to-date on the latest trends and tools in the industry, and I am always willing to share my knowledge and help others.
+📚 I am always looking for opportunities to learn and improve my abilities. I try to keep myself up-to-date on the latest trends and tools in the industry, and I am always willing to share my knowledge and help others.
 
 🤝🏼 I look forward to collaborating with teams of developers who share the desire to deliver the best results to their users.
 
