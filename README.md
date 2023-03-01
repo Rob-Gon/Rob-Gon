@@ -1,9 +1,4 @@
-<!--multilang v0 es:LEEME.md en:README.md-->
-<!--multilang buttons-->
-![English](https://raw.githubusercontent.com/codenautas/multilang/master/img/lang-en.png)
-
-<!--lang:es-->
-# ¡Muy buenas! 👋🏼
+# ¡Muy buenas!👋🏼 <a href="https://github.com/Rob-Gon/Rob-Gon/blob/main/README%20EN.md"><img src="https://raw.githubusercontent.com/codenautas/multilang/master/img/lang-en.png"></img></a>
 
 👨🏻‍💻 Mi nombre es Roberto González y soy desarrollador web con experiencia en el área de Front-End. Me apasiona la creación de sitios web y aplicaciones interactivas que brinden una agradable experiencia al usuario.
 
