@@ -11,3 +11,5 @@
 📥 Cualquiera puede contacarme a mi correo personal: <a href="mailto:robertobbgg@gmail.com">**robertobbgg@gmail.com**</a> o a través del propio GitHub.
 
 #### 🐵 Fun fact: Me gusta referirme a mí mismo como un mono que puede hacer cosas con un ordenador.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/roberto-gonzalez-web-dev/))
