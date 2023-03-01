@@ -1,6 +1,6 @@
 # ¡Muy buenas! 👋🏼
 
-👤 Mi nombre es Roberto González y soy desarrollador web con experiencia en el área de Front-End. Me apasiona la creación de sitios web y aplicaciones interactivas que brinden una agradable experiencia al usuario.
+👨🏻‍💻 Mi nombre es Roberto González y soy desarrollador web con experiencia en el área de Front-End. Me apasiona la creación de sitios web y aplicaciones interactivas que brinden una agradable experiencia al usuario.
 
 💻 Mi especialidad se basa en el desarrollo en HTML, CSS, JavaScript y React junto a otras tecnologías relevantes para el desarrollo Front-End. Además, últimamente me estoy especializando en la automatización de sitios web con IA.
 
@@ -10,7 +10,4 @@
 
 📥 Cualquiera puede contacarme a mi correo personal: <a href="mailto:robertobbgg@gmail.com">**robertobbgg@gmail.com**</a> o a través del propio GitHub.
 
-
-> 🐵 Fun fact: Me gusta referirme a mí mismo como un mono que puede hacer cosas con un ordenador.
-
-### ¡Que tengas un buen día!
+#### 🐵 Fun fact: Me gusta referirme a mí mismo como un mono que puede hacer cosas con un ordenador.
