@@ -1,6 +1,6 @@
 # Hi!👋🏻 <a href="https://github.com/Rob-Gon"><img src="https://raw.githubusercontent.com/codenautas/multilang/master/img/lang-es.png"></img></a>
 
-👨🏻‍💻 My name is Roberto González, and I'm a web developer. I'm passionate about creating websites and interactive applications that provide a pleasant user experience.
+👨🏻‍💻 My name is Roberto González, and I'm a junior web developer. I'm passionate about creating websites and interactive applications that provide a pleasant user experience.
 
 📚 I am always looking for opportunities to learn and improve my abilities. I try to keep myself up-to-date on the latest trends and tools in the industry, and I am always willing to share my knowledge and help others.
 
