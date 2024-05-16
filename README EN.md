@@ -8,7 +8,6 @@
 
 📥 Anyone can contact me via my personal email: <a href="mailto:robertobbgg@gmail.com">**robertobbgg@gmail.com**</a> or by GitHub itself.
 
-#### 🐵 Fun fact: I like to refer to myself as a monkey who knows how to do things with a computer.
-
+#### 🐵 Actually, I'm just a monkey who knows how to do things with a computer
 
 
